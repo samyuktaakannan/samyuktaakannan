@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 📝 Student at **PSG College of Technology, Coimbatore**
+
+- 🌱 Currently pursuing my 2nd year in **MSc Theoretical Computer Science**
+
 - 📫 How to reach me **samyukta606@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
