@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📝 Student at **PSG College of Technology, Coimbatore**
 
-- 🌱 Currently pursuing my 2nd year in **MSc Theoretical Computer Science**
+- 🌱 Currently pursuing my 3rd year in **MSc Theoretical Computer Science**
 
 - 📫 How to reach me **samyukta606@gmail.com**
 
