@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samyukta</h1>
-<h3 align="center">I am a highly organized and prompt individual with a strong passion for continuous learning. I am seeking opportunities to contribute to an organization that allows me to demonstrate my capabilities and cultivate my creative potential. Beyond my academic achievements, I have presented a TED talk on the "Story of Ethical AI." My objective is to continually expand my knowledge and skills, bringing innovative thinking and fresh perspectives to the organizations I collaborate with.</h3>
+<h3 align="center">I am a highly organized and prompt individual with a strong passion for continuous learning. I am seeking opportunities to contribute to an organization that allows me to demonstrate my capabilities and cultivate my creative potential. Beyond my academic achievements, I have presented a TED talk on "Story of Ethical AI." My objective is to continually expand my knowledge and skills, bringing innovative thinking and fresh perspectives to the organizations I collaborate with.</h3>
 
 - 📝 Student at **PSG College of Technology, Coimbatore**
 
